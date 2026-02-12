@@ -1,0 +1,48 @@
+{
+  "category": "CRYPTID",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/ropen",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "ropen",
+    "name": "Ropen",
+    "aliases": [
+      {
+        "name": "Demon Flyer"
+      },
+      {
+        "name": "Duah"
+      },
+      {
+        "name": "Seklo-Bali"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Flying cryptid",
+    "tags": [
+      "cryptid",
+      "humanoid",
+      "undiscovered",
+      "sightings"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea",
+      "full": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea"
+    }
+  }
+}
