@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-08",
     "repository": "https://github.com/wyrdness/ropen",
     "maintainers": [
       {
@@ -16,111 +16,284 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "ropen",
     "name": "Ropen",
-    "aliases": [],
-    "category": "CRYPTID",
-    "subcategory": "Flying cryptid",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Duwas", "language": "Kovai (local language)", "region": "Umboi Island, Papua New Guinea" },
+      { "name": "Wawanar", "language": "Local dialect", "region": "Papua New Guinea" }
     ],
-    "status": "documented",
+    "category": "CRYPTID",
+    "subcategory": "Flying cryptid / purported living pterosaur",
+    "tags": [
+      "cryptid",
+      "flying-creature",
+      "pterosaur",
+      "bioluminescent",
+      "papua-new-guinea",
+      "pacific",
+      "nocturnal",
+      "creationist-cryptozoology"
+    ],
+    "status": "unverified",
     "description": {
-      "summary": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea This phenomenon represents an important part of Papua New Guinean folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-      "full": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea This phenomenon represents an important part of Papua New Guinean folklore and cultural heritage, with documented accounts and traditions spanning generations."
+      "summary": "The Ropen is a large nocturnal flying cryptid reported from Papua New Guinea, described by witnesses as a featherless, bat-winged creature with a long tail and bioluminescent glow, and interpreted by some cryptozoologists as a surviving pterosaur.",
+      "full": "The Ropen is a cryptid claimed to inhabit the islands and jungles of Papua New Guinea, particularly Umboi Island and surrounding areas. The word 'ropen' in local Kovai language refers to a large nocturnal creature that glows briefly as it flies. Witnesses describe a dark gray or brownish featherless creature with leathery bat-like wings, a long tail with a diamond-shaped flange at the tip, a head crest, a toothed beak, and razor-sharp claws. Wingspan estimates from witnesses range widely, with some accounts claiming up to 29 feet (approximately 9 meters). The creature is said to emit bioluminescent light, possibly used to attract fish. Proponents — largely associated with young-earth creationist organizations — argue the Ropen is a surviving pterosaur (specifically resembling a Rhamphorhynchus or Pteranodon). Mainstream science has not accepted this interpretation, and no physical evidence has been produced. The most cited Western accounts come from Evelyn Cheesman (1935) and World War II serviceman Duane Hodgkinson (1944). The term 'ropen' was later applied by cryptozoologist Jonathan Whitcomb as a broad category for any featherless flying creature in the Southwest Pacific with a tail length more than 25% of its wingspan."
     },
     "etymology": {
-      "origin": "| Papua New Guinean |",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Kovai language, Umboi Island, Papua New Guinea.",
+      "meaning": "In the Kovai language, ropen refers to a large nocturnal creature that glows briefly as it flies.",
+      "first_use": "The term entered Western cryptozoological literature in the early 2000s through the work of Jonathan Whitcomb and other researchers."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
       "type": "Flying cryptid",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "subtype": "Purported living pterosaur",
+      "variant": "Papua New Guinea / Southwest Pacific"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "pterosaur", "name": "Pterosaur (fossil record)", "relationship": "related", "description": "The extinct flying reptile that Ropen proponents claim the creature represents" },
+      { "id": "kongamato", "name": "Kongamato", "relationship": "similar", "description": "Central African flying cryptid also interpreted as a surviving pterosaur" },
+      { "id": "duah", "name": "Duah", "relationship": "regional_variant", "description": "Related creature reported from the same region of Papua New Guinea" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 0.3, "max": 0.9, "unit": "meters", "confidence": "low" },
+      "features": [
+        { "feature": "Featherless wings", "description": "Leathery, bat-like wings lacking feathers; described as membranous like those of a bat or pterosaur", "frequency": "always" },
+        { "feature": "Long tail with diamond flange", "description": "A long tail reported to have a diamond or rhomboid shape at the end, resembling Rhamphorhynchus pterosaur anatomy", "frequency": "common" },
+        { "feature": "Head crest", "description": "A prominent bony or fleshy crest on the head, reported by multiple witnesses", "frequency": "common" },
+        { "feature": "Toothed beak", "description": "A long beak or snout reported to contain teeth rather than a keratin beak", "frequency": "common" },
+        { "feature": "Bioluminescent glow", "description": "The creature is said to emit a brief glowing light as it flies, possibly useful for luring fish near the water surface", "frequency": "common" },
+        { "feature": "Dark coloration", "description": "Described as dark gray, brownish, or black", "frequency": "always" },
+        { "feature": "Large wingspan", "description": "Witness estimates of wingspan vary widely, with claims ranging from several feet to approximately 29 feet (9 m); no measurement has been verified", "frequency": "always" }
+      ],
+      "morphology": "Described as consistent with Mesozoic pterosaur anatomy, particularly Rhamphorhynchus (long-tailed), which mainstream paleontology regards as extinct for approximately 66 million years. No specimen, bones, or verifiable physical evidence have been recovered."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Bioluminescence", "description": "Produces a glowing light during flight; claimed to be used to attract fish near the water surface for feeding", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Nocturnal flight", "description": "Active at night; witnesses report seeing the glowing light in darkness", "frequency": "always", "evidence_level": "reported" },
+      { "ability": "Fish predation", "description": "Said to feed on fish, using bioluminescence as a lure near water surfaces", "frequency": "common", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "neutral",
+      "social_structure": "unknown",
+      "habitat_preference": ["tropical jungle", "coastal areas", "island environments", "Papua New Guinea highlands"],
+      "diet": "Reported to feed on fish; some accounts also mention feeding on the dead at burial sites",
+      "patterns": [
+        "Predominantly nocturnal; the bioluminescent glow is the primary means by which witnesses detect it at night",
+        "Associated with coastal and aquatic environments where fish are available",
+        "Reported from remote islands and jungle areas with limited human access"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "| Papua New Guinean |",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reports concentrate on Umboi Island and surrounding areas of Papua New Guinea, with some claims from the broader Solomon Islands region and Indonesian Papua.",
+      "continents": ["Oceania"],
+      "countries": ["Papua New Guinea"],
+      "regions": ["Umboi Island", "Finschhafen area", "Southwest Pacific islands"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Umboi Island",
+        "location": {
+          "description": "Umboi Island (also called Rooke Island), Morobe Province, Papua New Guinea",
+          "country": "Papua New Guinea",
+          "region": "Morobe Province",
+          "coordinates": { "latitude": -5.6, "longitude": 147.9 }
+        },
+        "sighting_count": 10,
+        "peak_period": "1990s–2000s",
+        "notes": "The primary focus of Western cryptozoological expeditions seeking the Ropen"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1935-01-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Evelyn Cheesman, The Two Roads of Papua (1935)"
+      },
+      "peak_activity_periods": [
+        { "period": "1990s–2000s", "description": "Peak period of Western cryptozoological expeditions to Umboi Island seeking evidence of the Ropen" }
+      ],
+      "seasonal_patterns": "No documented seasonal pattern; accounts are distributed across the year."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "| Papua New Guinean |",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The local Kovai people of Umboi Island have traditions of a large nocturnal flying creature. The ropen is said to inhabit caves and emerge at night. Some accounts associate it with feeding near burial sites, which has informed local taboos.",
+      "earliest_accounts": "Evelyn Cheesman, a British biologist and explorer, documented unexplained lights moving in the skies of New Guinea in her 1935 book The Two Roads of Papua. During World War II, American serviceman Duane Hodgkinson reported (decades later) seeing a large creature near Finschhafen in 1944.",
+      "folklore_connections": "The phenomenon intersects strongly with young-earth creationist communities who cite the Ropen as evidence that pterosaurs survived to the present, contradicting the mainstream paleontological record. This framing has shaped most Western fieldwork on the creature."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1935-01-01", "event": "Evelyn Cheesman documents strange moving lights in the skies of New Guinea in The Two Roads of Papua", "significance": "Earliest widely cited Western reference; Cheesman was a credentialed biologist", "source": "Cheesman, E. (1935), The Two Roads of Papua" },
+      { "date": "1944-01-01", "event": "U.S. Army serviceman Duane Hodgkinson reportedly observes a large winged creature near Finschhafen, Papua New Guinea; account publicized decades later", "significance": "Most cited WWII-era sighting claim; Hodgkinson described a pterodactyl-like animal with crest and long snout", "source": "Cryptozoological literature; account publicized by Jonathan Whitcomb" },
+      { "date": "1994-01-01", "event": "Paul Nation and other researchers conduct early Western expeditions to Umboi Island seeking the Ropen", "significance": "Beginning of organized Western cryptozoological fieldwork on the phenomenon", "source": "Cryptozoological expedition accounts" },
+      { "date": "2004-01-01", "event": "Jonathan Whitcomb conducts expedition to Umboi Island; coins or popularizes the broad definition of 'ropen' as any long-tailed featherless flyer in the region", "significance": "Establishes the modern cryptozoological framing", "source": "Whitcomb, J. (2004), expedition accounts" }
+    ],
+    "modern_era": "The Ropen remains a subject of ongoing interest within creationist cryptozoology. No mainstream scientific investigation has been conducted. No physical evidence — bones, feathers, photographs, or tissue samples — has been produced. Mainstream scientists attribute the sighting reports to misidentified large bats (such as the Bismarck flying fox, Pteropus neohibernicus, which has a wingspan of up to 1.5 meters), bioluminescent insects, or fireflies reflected on water."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 30,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 30,
+      "debunked": 0,
+      "date_range": { "earliest": "1935", "latest": "2004" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "ropen-sighting-1935-cheesman",
+        "name": "Evelyn Cheesman's light observations",
+        "date": { "value": "1935-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Interior highlands of New Guinea (now Papua New Guinea)",
+          "country": "Papua New Guinea",
+          "region": "Interior highlands"
+        },
+        "witnesses": { "count": 1, "types": ["Biologist and explorer (Evelyn Cheesman)"], "credibility_factors": ["Credentialed scientist", "Published in a formal book"] },
+        "description": "British biologist and explorer Evelyn Cheesman documented observing strange lights moving across the sky above New Guinea, lasting several seconds and moving in ways she could not explain through known natural causes. She documented this in her 1935 book The Two Roads of Papua.",
+        "conditions": { "time_of_day": "Night", "visibility": "Clear enough to observe moving lights" },
+        "evidence": ["Published account in The Two Roads of Papua (1935)"],
+        "credibility": { "rating": "low", "factors": ["Credentialed scientist as witness", "But only unusual lights observed, not an animal itself"], "notes": "Cheesman documented unusual lights, not a creature directly; her account is frequently cited but does not constitute a sighting of an animal." },
+        "sources": ["Cheesman, E. (1935), The Two Roads of Papua"],
+        "featured": true
+      },
+      {
+        "id": "ropen-sighting-1944-hodgkinson",
+        "name": "Duane Hodgkinson sighting near Finschhafen",
+        "date": { "value": "1944-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Near Finschhafen, Morobe Province, Papua New Guinea",
+          "country": "Papua New Guinea",
+          "region": "Morobe Province"
+        },
+        "witnesses": { "count": 1, "types": ["U.S. Army serviceman (Duane Hodgkinson)"], "credibility_factors": ["Eyewitness account", "Described specific physical features"] },
+        "description": "U.S. Army serviceman Duane Hodgkinson reported seeing a massive winged animal near Finschhafen. He described a creature resembling a pterodactyl with a long snout, head crest, and an estimated wingspan of nearly 30 feet. The account was publicized decades after the original claimed observation through cryptozoological literature.",
+        "conditions": { "time_of_day": "Daylight", "visibility": "Open area" },
+        "evidence": ["Retrospective verbal testimony published by Jonathan Whitcomb"],
+        "credibility": { "rating": "low", "factors": ["Very long delay between claimed observation and public account", "No corroborating witnesses cited", "Wingspan estimate far exceeds any known animal"], "notes": "Account published many decades after the claimed event; significant credibility concerns." },
+        "sources": ["Whitcomb, J., cryptozoological publications"],
+        "featured": false
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "ropen-evidence-cheesman-1935",
+        "type": "archive",
+        "name": "The Two Roads of Papua (1935)",
+        "date": "1935",
+        "description": "Book by biologist Evelyn Cheesman documenting unexplained lights in New Guinea skies; frequently cited as earliest Western evidence for the Ropen.",
+        "status": "unverified",
+        "analysis": "Cheesman documented unusual lights, not a distinct flying animal. The connection to a pterosaur-like creature is an interpretive addition by later cryptozoologists.",
+        "source": "Cheesman, E. (1935), The Two Roads of Papua"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Surviving pterosaur",
+        "description": "The Ropen represents a relict population of pterosaurs (likely Rhamphorhynchus-type, based on the reported long tail with diamond flange) that survived the Cretaceous-Paleogene extinction event in the remote jungles of Papua New Guinea.",
+        "proponents": ["Jonathan Whitcomb", "Garth Guessman", "Paul Nation"],
+        "evidence_cited": ["Witness descriptions of tail with diamond flange consistent with Rhamphorhynchus anatomy", "Reported bioluminescence consistent with some speculative pterosaur models", "Isolation of Papua New Guinea's ecosystems"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentified large bat",
+        "description": "The Ropen is most parsimoniously explained as misidentification of the Bismarck flying fox (Pteropus neohibernicus) or other large fruit bats native to the region. These bats have wingspans of up to 1.5 meters and fly at night. Bioluminescent insects or fireflies may account for the glowing light observations.",
+        "proponents": ["Mainstream zoologists and paleontologists"],
+        "evidence_cited": ["Bismarck flying fox's large wingspan and nocturnal behavior", "Known bioluminescent organisms in the region", "Absence of any physical pterosaur evidence despite targeted searches", "Pterosaurs extinct for approximately 66 million years per fossil record"]
+      },
+      {
+        "name": "Creationist framing bias",
+        "description": "Most Western fieldwork on the Ropen has been conducted by young-earth creationists who have a doctrinal motivation to find living pterosaurs as evidence against evolutionary biology. This bias shapes the interpretation of all witness accounts.",
+        "proponents": ["Mainstream scientists", "Skeptical investigators"],
+        "evidence_cited": ["Whitcomb, Nation, and most major Ropen researchers are publicly affiliated with creationist organizations", "No secular cryptozoologist or paleontologist has endorsed the pterosaur interpretation", "No specimen has ever been recovered despite multiple expeditions"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Kovai people of Umboi Island maintain traditions of a large nocturnal flying creature",
+        "Local taboos associated with the creature's reported feeding near burial sites"
+      ],
+      "stories": [
+        "Local accounts of a glowing flying creature seen over water at night",
+        "Reports of unusual lights over the jungle and coastal areas"
+      ],
+      "beliefs": "The Kovai people of Umboi Island describe the ropen as a real creature inhabiting caves and emerging at night. Some accounts associate it with feeding near burial sites, which has informed cultural practices."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Jonathan Whitcomb, Searching for Ropens (2004 and later editions)",
+        "Evelyn Cheesman, The Two Roads of Papua (1935)"
+      ],
+      "film_tv": [
+        "Featured in several cryptozoology documentary programs"
+      ],
       "games": [],
       "other": []
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Jonathan Whitcomb", "affiliation": "Independent (young-earth creationist perspective)", "contribution": "Coined broad modern definition of 'ropen'; conducted expedition to Umboi Island (2004); authored Searching for Ropens", "period": "2000s–2010s" },
+      { "name": "Paul Nation", "affiliation": "Independent", "contribution": "Early Western expeditions to Umboi Island in the 1990s seeking the Ropen", "period": "1994–2000s" },
+      { "name": "Evelyn Cheesman", "affiliation": "British Museum of Natural History (entomologist)", "contribution": "Documented unexplained lights in New Guinea (1935); not a Ropen researcher per se but her account is the earliest cited", "period": "1930s" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "No mainstream scientific organizations are actively investigating the Ropen. Research is ongoing within young-earth creationist cryptozoology networks."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "cheesman-1935",
+      "type": "book",
+      "title": "The Two Roads of Papua",
+      "authors": ["Evelyn Cheesman"],
+      "publication": "Jarrolds",
+      "date": "1935"
+    },
+    {
+      "id": "whitcomb-2004",
+      "type": "book",
+      "title": "Searching for Ropens",
+      "authors": ["Jonathan Whitcomb"],
+      "date": "2004"
+    },
+    {
+      "id": "websearch-ropen-2026",
+      "type": "website",
+      "title": "Ropen — Cryptid Index",
+      "url": "https://cryptidindex.com/ropen/",
+      "accessed": "2026-05-08"
+    }
+  ]
 }

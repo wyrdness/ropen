@@ -1,321 +1,191 @@
 # Ropen
 
-> *"Legends born from the shadows of reality"*
+> The Ropen is a large nocturnal flying cryptid reported from Papua New Guinea, described by witnesses as a featherless, bat-winged creature with a long tail and bioluminescent glow, and interpreted by some cryptozoologists as a surviving pterosaur.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-CRYPTID-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-30-orange)]() ![Status](https://img.shields.io/badge/status-unverified-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `ropen` |
 | **Category** | CRYPTID |
-| **Classification** | Flying cryptid |
-| **Primary Region** | Papua New Guinea |
-| **Cultural Origin** | Papua New Guinean |
-| **Status** | Documented |
+| **Subcategory** | Flying cryptid / purported living pterosaur |
+| **First recorded** | 1935-01-01 |
+| **Primary range** | Reports concentrate on Umboi Island and surrounding areas of Papua New Guinea, with some claims from the broader Solomon Islands region and Indonesian Papua |
+| **Status** | unverified |
 
 ---
-
 ## Overview
 
-Purported living pterosaur with bioluminescent glow reported in Papua New Guinea
-
-This phenomenon represents an important part of Papua New Guinean folklore and cultural heritage, with documented accounts and traditions spanning generations.
+The Ropen is a cryptid claimed to inhabit the islands and jungles of Papua New Guinea, particularly Umboi Island and surrounding areas. The word 'ropen' in local Kovai language refers to a large nocturnal creature that glows briefly as it flies. Witnesses describe a dark gray or brownish featherless creature with leathery bat-like wings, a long tail with a diamond-shaped flange at the tip, a head crest, a toothed beak, and razor-sharp claws. Wingspan estimates from witnesses range widely, with some accounts claiming up to 29 feet (approximately 9 meters). The creature is said to emit bioluminescent light, possibly used to attract fish. Proponents — largely associated with young-earth creationist organizations — argue the Ropen is a surviving pterosaur (specifically resembling a Rhamphorhynchus or Pteranodon). Mainstream science has not accepted this interpretation, and no physical evidence has been produced. The most cited Western accounts come from Evelyn Cheesman (1935) and World War II serviceman Duane Hodgkinson (1944). The term 'ropen' was later applied by cryptozoologist Jonathan Whitcomb as a broad category for any featherless flying creature in the Southwest Pacific with a tail length more than 25% of its wingspan.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Duwas | Kovai (local language) / Umboi Island, Papua New Guinea |  |
+| Wawanar | Local dialect / Papua New Guinea |  |
 
-### Primary Name
-- **Ropen** — Umboi Island, Papua New Guinea
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Demon Flyer | Papua New Guinea | Traditional name |
-| Duah | Papua New Guinea | Traditional name |
-| Seklo-Bali | Papua New Guinea | Traditional name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Flying cryptid
-└── Origin: Papua New Guinean
-```
+- **Origin**: Kovai language, Umboi Island, Papua New Guinea.
+- **Meaning**: In the Kovai language, ropen refers to a large nocturnal creature that glows briefly as it flies.
+- **First use**: The term entered Western cryptozoological literature in the early 2000s through the work of Jonathan Whitcomb and other researchers.
 
 ---
-
-## Characteristics
-
-### Description
-
-Purported living pterosaur with bioluminescent glow reported in Papua New Guinea
-
-### Cultural Significance
-
-This entity holds significant meaning within Papua New Guinean culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Papua New Guinea
-
-The phenomenon is primarily reported in Papua New Guinea, with strongest traditions in Papua New Guinean communities.
-
-### Cultural Context
-
-- **Origin Culture:** Papua New Guinean
-- **Geographic Focus:** Papua New Guinea
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Ropen originates from Papua New Guinean tradition in Papua New Guinea. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Ropen features prominently in Papua New Guinean folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Papua New Guinea, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Papua New Guinean belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Papua New Guinean tradition, the Ropen represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Papua New Guinean culture, the Ropen:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Ropen phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
+- [Pterosaur (fossil record)](../pterosaur/) — _related_: The extinct flying reptile that Ropen proponents claim the creature represents
+- [Kongamato](../kongamato/) — _similar_: Central African flying cryptid also interpreted as a surviving pterosaur
+- [Duah](../duah/) — _regional_variant_: Related creature reported from the same region of Papua New Guinea
 
-- [Bigfoot](/bigfoot) - North American cryptid hominid
-- [Yeti](/yeti) - Himalayan wildman
-- [Orang Pendek](/orang-pendek) - Sumatran forest dweller
+---
+## Physical Description
+
+- **Height**: 0.3–0.9 meters _(low confidence)_
+- **Morphology**: Described as consistent with Mesozoic pterosaur anatomy, particularly Rhamphorhynchus (long-tailed), which mainstream paleontology regards as extinct for approximately 66 million years. No specimen, bones, or verifiable physical evidence have been recovered.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Featherless wings | Leathery, bat-like wings lacking feathers; described as membranous like those of a bat or pterosaur | always |
+| Long tail with diamond flange | A long tail reported to have a diamond or rhomboid shape at the end, resembling Rhamphorhynchus pterosaur anatomy | common |
+| Head crest | A prominent bony or fleshy crest on the head, reported by multiple witnesses | common |
+| Toothed beak | A long beak or snout reported to contain teeth rather than a keratin beak | common |
+| Bioluminescent glow | The creature is said to emit a brief glowing light as it flies, possibly useful for luring fish near the water surface | common |
+| Dark coloration | Described as dark gray, brownish, or black | always |
+| Large wingspan | Witness estimates of wingspan vary widely, with claims ranging from several feet to approximately 29 feet (9 m); no measurement has been verified | always |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Bioluminescence | Produces a glowing light during flight; claimed to be used to attract fish near the water surface for feeding | common | reported |
+| Nocturnal flight | Active at night; witnesses report seeing the glowing light in darkness | always | reported |
+| Fish predation | Said to feed on fish, using bioluminescence as a lure near water surfaces | common | reported |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: neutral
+- **Social structure**: unknown
+- **Habitat**: tropical jungle, coastal areas, island environments, Papua New Guinea highlands
+- **Diet**: Reported to feed on fish; some accounts also mention feeding on the dead at burial sites
+
+---
+## Distribution
+
+Reports concentrate on Umboi Island and surrounding areas of Papua New Guinea, with some claims from the broader Solomon Islands region and Indonesian Papua.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Umboi Island | Morobe Province, Papua New Guinea | 10 | 1990s–2000s |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1935-01-01 | Evelyn Cheesman documents strange moving lights in the skies of New Guinea in The Two Roads of Papua | Earliest widely cited Western reference; Cheesman was a credentialed biologist |
+| 1944-01-01 | U.S. Army serviceman Duane Hodgkinson reportedly observes a large winged creature near Finschhafen, Papua New Guinea; account publicized decades later | Most cited WWII-era sighting claim; Hodgkinson described a pterodactyl-like animal with crest and long snout |
+| 1994-01-01 | Paul Nation and other researchers conduct early Western expeditions to Umboi Island seeking the Ropen | Beginning of organized Western cryptozoological fieldwork on the phenomenon |
+| 2004-01-01 | Jonathan Whitcomb conducts expedition to Umboi Island; coins or popularizes the broad definition of 'ropen' as any long-tailed featherless flyer in the region | Establishes the modern cryptozoological framing |
+
+---
+## Notable Sightings
+
+### Evelyn Cheesman's light observations ⭐
+> **Date**: 1935-01-01  
+> **Location**: Interior highlands of New Guinea (now Papua New Guinea)  
+> **Witnesses**: 1 (Biologist and explorer (Evelyn Cheesman))  
+> **Evidence**: Published account in The Two Roads of Papua (1935)  
+British biologist and explorer Evelyn Cheesman documented observing strange lights moving across the sky above New Guinea, lasting several seconds and moving in ways she could not explain through known natural causes. She documented this in her 1935 book The Two Roads of Papua.
+**Credibility**: low — Cheesman documented unusual lights, not a creature directly; her account is frequently cited but does not constitute a sighting of an animal.
+**Sources**: Cheesman, E. (1935), The Two Roads of Papua
 
 ---
 
-## Sources & Further Reading
-
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
-
-### Recommended Starting Points
-
-- Academic studies of Papua New Guinean folklore
-- Anthropological surveys of Papua New Guinea
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+### Duane Hodgkinson sighting near Finschhafen
+> **Date**: 1944-01-01  
+> **Location**: Near Finschhafen, Morobe Province, Papua New Guinea  
+> **Witnesses**: 1 (U.S. Army serviceman (Duane Hodgkinson))  
+> **Evidence**: Retrospective verbal testimony published by Jonathan Whitcomb  
+U.S. Army serviceman Duane Hodgkinson reported seeing a massive winged animal near Finschhafen. He described a creature resembling a pterodactyl with a long snout, head crest, and an estimated wingspan of nearly 30 feet. The account was publicized decades after the original claimed observation through cryptozoological literature.
+**Credibility**: low — Account published many decades after the claimed event; significant credibility concerns.
+**Sources**: Whitcomb, J., cryptozoological publications
 
 ---
 
-## Contribution Guidelines
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
+## Evidence
 
-### How to Contribute
+### Documentary
 
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
-
-### Standards
-
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+| Name | Date | Description | Status |
+|---|---|---|---|
+| The Two Roads of Papua (1935) | 1935 | Book by biologist Evelyn Cheesman documenting unexplained lights in New Guinea skies; frequently cited as earliest Western evidence for the Ropen. | unverified |
 
 ---
+## Theories & Explanations
 
+### Scientific
+
+**Surviving pterosaur** _(Jonathan Whitcomb, Garth Guessman, Paul Nation)_
+
+The Ropen represents a relict population of pterosaurs (likely Rhamphorhynchus-type, based on the reported long tail with diamond flange) that survived the Cretaceous-Paleogene extinction event in the remote jungles of Papua New Guinea.
+
+### Skeptical
+
+**Misidentified large bat** _(Mainstream zoologists and paleontologists)_
+
+The Ropen is most parsimoniously explained as misidentification of the Bismarck flying fox (Pteropus neohibernicus) or other large fruit bats native to the region. These bats have wingspans of up to 1.5 meters and fly at night. Bioluminescent insects or fireflies may account for the glowing light observations.
+
+**Creationist framing bias** _(Mainstream scientists, Skeptical investigators)_
+
+Most Western fieldwork on the Ropen has been conducted by young-earth creationists who have a doctrinal motivation to find living pterosaurs as evidence against evolutionary biology. This bias shapes the interpretation of all witness accounts.
+
+
+## Popular Culture
+
+**Literature**: Jonathan Whitcomb, Searching for Ropens (2004 and later editions); Evelyn Cheesman, The Two Roads of Papua (1935)
+
+**Film / TV**: Featured in several cryptozoology documentary programs
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jonathan Whitcomb | Independent (young-earth creationist perspective) | Coined broad modern definition of 'ropen'; conducted expedition to Umboi Island (2004); authored Searching for Ropens | 2000s–2010s |
+| Paul Nation | Independent | Early Western expeditions to Umboi Island in the 1990s seeking the Ropen | 1994–2000s |
+| Evelyn Cheesman | British Museum of Natural History (entomologist) | Documented unexplained lights in New Guinea (1935); not a Ropen researcher per se but her account is the earliest cited | 1930s |
+
+No mainstream scientific organizations are actively investigating the Ropen. Research is ongoing within young-earth creationist cryptozoology networks.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "ropen",
-  "name": "Ropen",
-  "category": "CRYPTID",
-  "region": "Papua New Guinea",
-  "culture": "Papua New Guinean",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Ropen phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
